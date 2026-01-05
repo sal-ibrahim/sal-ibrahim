@@ -18,7 +18,6 @@ About Me
 
 - Software Engineering student at uOttawa.
 - I'm passionate about exploring new technologies and using them to design and build software solutions.
-- Always curious, always experimenting.
 - Seeking Summer 2026 Internships
 
 
