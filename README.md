@@ -23,7 +23,7 @@ About Me
 
 My Current Dev Journey
 - 🌱 I’m currently learning software development in C/C++ and exploring systems programming.
-- 💡 I'm interested in open source projects, systems programming, computer networking, and backend development.
+- 💡 I'm interested in open source projects, systems programming, information technology, and backend development.
 - 🤝 I’m looking to collaborate on new and exciting projects and/or companies.
 
 Connect with me: 
@@ -36,6 +36,7 @@ Languages and Tools:
 <img width="50" height="50" alt="Python-Logo" src="https://github.com/user-attachments/assets/f8a4f4ea-29a4-4505-82f6-000953cb055a" />
 <img width="50" height="50" alt="Java-Logo" src="https://github.com/user-attachments/assets/2d8cf204-a153-4f0f-96da-b53516e5a716" />
 <img width="50" height="50" alt="JavaScript-Logo" src="https://github.com/user-attachments/assets/f15442ec-8d8d-4a6d-be28-4e95d40cba67" />
+<img width="50" height="50" alt="PHP-Logo" src="https://github.com/user-attachments/assets/43dc72cf-ab01-4077-8010-77539a59e333" />
 <img width="50" height="50" alt="React-Logo" src="https://github.com/user-attachments/assets/36f4da6d-dcbd-4fdc-9b8c-382f4083eec9" />
 <img width="50" height="50" alt="NodeJs-Logo" src="https://github.com/user-attachments/assets/3fdda189-97f9-48f8-b3ac-ae7604ee87c8" />
 <img width="50" height="80" alt="MongoDB-Logo" src="https://github.com/user-attachments/assets/915e88a0-f716-4a08-9928-a14cbf952387" />
